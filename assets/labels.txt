@@ -1,0 +1,2 @@
+0 Millitary Vehicle
+1 Normal Vehicle
