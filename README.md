@@ -1,16 +1,11 @@
 # military_vehicle_detection_flutter
 
-A new Flutter project.
+Military Vehicle vs Normal Vehicle app using Tflite. However the model is not perfect, I've just trained it using Google Teachable Machine for demo. It allows you to select Image File from gallery or you can capture it using camera.
 
-## Getting Started
+## Here are few screenshots:-
 
-This project is a starting point for a Flutter application.
+![WhatsApp Image 2023-03-04 at 5 09 55 AM](https://user-images.githubusercontent.com/120256780/222859715-60750cea-f57c-4149-833d-40a4d0d919e5.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+![WhatsApp Image 2023-03-04 at 5 09 54 AM](https://user-images.githubusercontent.com/120256780/222859732-0aa7d45c-400d-4958-bd73-81f0d7a47a5b.jpeg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-03-04 at 5 09 52 AM](https://user-images.githubusercontent.com/120256780/222859739-58dbefe7-d546-485c-a741-2cd084abd9ef.jpeg)
