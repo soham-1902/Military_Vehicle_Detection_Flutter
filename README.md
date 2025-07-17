@@ -2,6 +2,9 @@
 
 Military Vehicle vs Normal Vehicle app using Tflite. However the model is not perfect, I've just trained it using Google Teachable Machine for demo. It allows you to select Image File from gallery or you can capture it using camera.
 
+## Tutorial you can refer to
+https://youtu.be/R_gTJCBfDu0?feature=shared
+
 ## Dependencies Used:
 1. tflite
 2. image_picker
